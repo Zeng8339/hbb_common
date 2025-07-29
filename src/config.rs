@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["ori.zgxy.dpdns.org"];
-pub const RS_PUB_KEY: &str = "xxDnh6alorHqAwP2ooi7pBrB2xr4tKhyamCWgqVmZNo=";
+pub const RS_PUB_KEY: &str = "yidX5ZxIAmlJQo467IIcafUitoU619G55NFcMox1Kow=";
 
 pub const RENDEZVOUS_PORT: i32 = 52116;
 pub const RELAY_PORT: i32 = 52117;
